@@ -1,0 +1,19 @@
+{
+  "name": "@s3bu7i/npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3bu7i/npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s3bu7i/npm/issues"
+  },
+  "homepage": "https://github.com/s3bu7i/npm#readme"
+}
